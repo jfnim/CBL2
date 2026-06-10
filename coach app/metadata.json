@@ -1,0 +1,6 @@
+{
+  "name": "KinetiCoach",
+  "description": "An Android companion app for ESP32 with peak-detection rep tracking, custom EMG analysis, and real-time Gemini audio coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
